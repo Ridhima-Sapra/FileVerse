@@ -43,15 +43,3 @@ To create an all-in-one platform that delivers efficient, intelligent, and user-
 
 ---
 
-## Roadmap  
-
-- Expansion of media tools (e.g., advanced image editing, creative filters)  
-- Enhanced document utilities (citations, structured note generation, advanced plagiarism detection)  
-- Real-time collaboration and sharing features  
-- Cross-platform availability (desktop and mobile applications)  
-
----
-
-## About  
-
-FileVerse was conceived as a single hub where users can accomplish multiple file-related tasks without switching between different applications. It combines versatility with simplicity, making it a practical solution for modern digital workflows.  
