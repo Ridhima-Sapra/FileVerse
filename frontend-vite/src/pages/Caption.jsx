@@ -14,7 +14,7 @@ export default function Caption() {
     try {
       const res = await axios.post('http://127.0.0.1:8000/api/caption/', formData);
       setCaption(res.data.caption);
-    } catch (err) {
+    } catch  {
       alert("Failed to generate caption");
     }
     setLoading(false);
